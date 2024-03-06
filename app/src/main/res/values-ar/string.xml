@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">اشتراك</string>
+    <string name="invalidpass">اسم المستخدم أو كلمة السر غير صحيحة.</string>
+    <string name="invalidlength">كلمة المرور الخاصة بك أقل من 6 أحرف.</string>
+</resources>

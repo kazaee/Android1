@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">نام کاربری</string>
+    <string name="password">گذرواژه</string>
+    <string name="login">ورود</string>
+    <string name="signup">ثبت نام</string>
+    <string name="invalidpass">نام کاربری و یا گذرواژه اشتباه است.</string>
+    <string name="invalidlength">پسورد شما کوچک تر از 6 کاراکتر می باشد.</string>
+</resources>
